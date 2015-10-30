@@ -4,7 +4,7 @@
 # When we wrote this script we believed the House Clerk was
 # not yet making this info available.
 
-import utils
+import utils/
 import json
 import copy
 from utils import download, load_data, save_data, parse_date, CURRENT_CONGRESS
